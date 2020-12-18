@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: karaoke-maker
+Version: 0.0.1
+Summary: Make Karaoke Videos from Lyrics Videos.
+Home-page: https://github.com/sriv_arpan/karaokemaker
+Author: Arpan Srivastava
+Author-email: sriv.arpan@gmail.com
+License: UNKNOWN
+Description: # Karaoke Maker
+        
+        TODO(arpan): Add Readme
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

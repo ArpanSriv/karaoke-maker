@@ -1,0 +1,6 @@
+README.md
+setup.py
+karaoke_maker.egg-info/PKG-INFO
+karaoke_maker.egg-info/SOURCES.txt
+karaoke_maker.egg-info/dependency_links.txt
+karaoke_maker.egg-info/top_level.txt
